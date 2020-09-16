@@ -1,0 +1,17 @@
+<test>
+    <id>0001</id>
+    <mnemonic>test</mnemonic>
+    <name>some test</name>
+    <desc>some useful explanation</desc>
+    <parameters>
+        <parameter>
+            <key>request</key>
+            <value>request template</value>
+        </parameter>
+        <parameter>
+            <key>base64</key>
+            <value>c3RyaW5nIHdhcyBlbmNvZGVkIGluIGJhc2U</value>
+            <type>base</type>
+        </parameter>
+    </parameters>
+</test>

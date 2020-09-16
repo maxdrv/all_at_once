@@ -1,0 +1,8 @@
+package patterns.c;
+
+public class MuteQuack implements QuackBehavior {
+    @Override
+    public void quack() {
+        System.out.println("Отсутсвие какого либо звука");
+    }
+}

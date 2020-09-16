@@ -1,0 +1,10 @@
+This is a test document with a list of phone numbers:
+1.	9498888888
+2.	9497777777
+3.	(949) 666 - 6666
+4.	ninefourninefive5fivefive5fivefive
+5.	4-1-9-3-4-0-4-6-4-5
+6.	[9][0][4]  [4][6][8]  [7][0][8][1]
+7.	TwO/6/zERo-FouR/0/NiNe-4/eIgHt/1/One
+
+888-888-000
